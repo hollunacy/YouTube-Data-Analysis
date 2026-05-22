@@ -11,3 +11,9 @@ An end-to-end data analytics project focused on extracting, preprocessing, and a
 ## Tech Stack
 - **Language:** Python
 - **Libraries:** Pandas, NumPy, Scikit-learn, SciPy
+
+## Data Source
+The datasets used in this project was sourced from Kaggle, containing historical records collected via the official YouTube Data API.
+- https://www.kaggle.com/datasets/datasnaek/youtube-new
+- https://www.kaggle.com/datasets/nelgiriyewithana/global-youtube-statistics-2023
+- https://www.kaggle.com/datasets/kenjee/ken-jee-youtube-data
